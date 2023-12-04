@@ -2,15 +2,25 @@
 
 ## Environment
 *__If you need to run the code, you need to include the following package in your python environment__*
+
 python
+
 pandas
+
 pprint
+
 scipy
+
 numpy
+
 argparse
+
 seaborn
+
 matplotlib
+
 cvxopt
+
 itertools
 
 
